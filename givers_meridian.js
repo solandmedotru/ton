@@ -50,7 +50,6 @@ exports.givers10000 = [
     { address: 'EQAZ1XjtrxSfmDEEQo4axo24ttcUr5MVEFxhcHSgRk8seobo', reward: 10000 }, // 10 000
 ];
 exports.givers1000 = [
-    { address: 'EQA_AFgnTqLSuVQGaxGyZYmQceD8_rUSHHvdPujNBFdluL9F', reward: 1000 },
     { address: 'EQDgjQnT1YJhGvLk38IDUodwPa3HLJ38g703SgFpRp2kW8FV', reward: 1000 },
     { address: 'EQAApt_NS7LegD6gbn3RHuTViCkpmnK4DiKSr5ACDmLmlMsd', reward: 1000 },
     { address: 'EQD82Nmdun4-pA0K1jKdCVRwvV9SGVZrhQneLdARp7iKBKRp', reward: 1000 },
