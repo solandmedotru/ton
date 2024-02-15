@@ -51,9 +51,7 @@ exports.givers10000 = [
 ];
 exports.givers1000 = [
     { address: 'EQAApt_NS7LegD6gbn3RHuTViCkpmnK4DiKSr5ACDmLmlMsd', reward: 1000 },
-    { address: 'EQCfX6neH7UfiychTWXmWfJxTxJ6sbdOoBJesyHz2RyCNYfq', reward: 1000 },
-    { address: 'EQAh0X4RydrmGRO0vDvDkWi_ymIO0a5HlxzOp_-fuhgUea-m', reward: 1000 },
-    { address: 'EQCUoxbuxROf2GKmLJPvRjvd9JYTwXv5-yXA62FMN6X-KGsK', reward: 1000 }, // 1 000
+    { address: 'EQAh0X4RydrmGRO0vDvDkWi_ymIO0a5HlxzOp_-fuhgUea-m', reward: 1000 }, // 1 000
 ];
 exports.givers100 = [
     { address: 'EQAr5cz1Ovu7PJy4s8C9akci2L55L5HdnNdFVNenocLmfclE', reward: 100 },
